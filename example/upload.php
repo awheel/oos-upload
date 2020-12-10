@@ -30,5 +30,5 @@ echo $url.PHP_EOL;
 /**
 dd18bf3a8e0a2a3e53e2661c7fb53534010
 /testupload/dd/18/bf/dd18bf3a8e0a2a3e53e2661c7fb53534010.txt
-http://http://img1.example.com/testupload/dd/18/bf/dd18bf3a8e0a2a3e53e2661c7fb53534010.txt
+http://img1.example.com/testupload/dd/18/bf/dd18bf3a8e0a2a3e53e2661c7fb53534010.txt
  */
